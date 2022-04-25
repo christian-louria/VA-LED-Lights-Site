@@ -47,7 +47,7 @@ features                                  :
     description                           : View the time and score of your favorite soccer teams
     fontawesome_icon_name                 : fa-futbol-o
     
-  - title                                 : Off
+  - title                                 : Power
     description                           : Turn off your lights from the clikc of a button
     fontawesome_icon_name                 : fa-toggle-off
 
