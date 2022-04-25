@@ -37,15 +37,15 @@ features                                  :
 
   - title                                 : Weather
     description                           : View the current temperature with high and low for the following 24 hours
-    fontawesome_icon_name                 : sun-o
+    fontawesome_icon_name                 : sun
     
   - title                                 : Time
     description                           : See the current time all the way down to the seconds!
-    fontawesome_icon_name                 : clock-o
+    fontawesome_icon_name                 : clock
     
   - title                                 : Games
     description                           : View the time and score of your favorite soccer teams
-    fontawesome_icon_name                 : futbol-o
+    fontawesome_icon_name                 : futbol
     
   - title                                 : Power
     description                           : Turn off your lights from the clikc of a button
